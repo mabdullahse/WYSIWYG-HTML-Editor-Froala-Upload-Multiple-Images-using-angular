@@ -1,27 +1,26 @@
-# FroalaWithMultipleUploadImagesBase64
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+# WYSIWYG HTML Editor | Froala Upload Multiple Images using angular
 
-## Development server
+WYSIWYG HTML Editor is really amazing and cool. Really easy to integrate with existing code with little effort. 
+We will be focusing on 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Article includes
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Quick Integration of Editor with Angular.
 
-## Running end-to-end tests
+- How about font setup and default?
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Transformation/convert images into Base64 and bug fixes.
+- GitHub Link 🚀
+  
+ 
+Link is given as [Article attached](https://mabdullah-se.medium.com/angular-12-multiple-image-upload-to-s3-using-dropzone-aws-sdk-190ebe22729f?source=friends_link&sk=ed97c200b42c6acb92aa6dd3ec20fd30)
+## License
 
-## Further help
+[MIT](https://choosealicense.com/licenses/mit/)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
